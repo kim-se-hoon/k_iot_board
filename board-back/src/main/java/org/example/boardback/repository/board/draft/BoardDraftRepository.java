@@ -1,3 +1,4 @@
+
 package org.example.boardback.repository.board.draft;
 
 import org.example.boardback.entity.board.draft.BoardDraft;

@@ -1,4 +1,3 @@
-
 package org.example.boardback.repository.board;
 
 import org.example.boardback.entity.board.BoardCategory;
